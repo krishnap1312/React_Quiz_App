@@ -1,0 +1,25 @@
+.bg-header{
+    background-color: #0B2447;
+    color: #F3E8FF;
+}
+
+.bg-nav-div{
+    background-color: #19376D ;
+    box-shadow: 0px 0px 40px #0E8388;
+}
+
+.Question-color{
+    color: #262A56;
+}
+
+.option-color{
+    color: #262A56;
+    font-weight: bold;
+    font-size: 110%;
+    background-color: white;
+}
+
+.option-color:hover{
+    box-shadow: 0px 0px 20px #FFB84C;
+    transition: .5s;
+}
